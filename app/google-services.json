@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "886462253440",
+    "project_id": "quizgame-cfb12",
+    "storage_bucket": "quizgame-cfb12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886462253440:android:bc0fb245b4bedd92905965",
+        "android_client_info": {
+          "package_name": "com.fake.quizactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRpmVpH6ZDIxJKaAajLxUiGmsGRWP891w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
